@@ -1,0 +1,9 @@
+venv/*
+!.gitignore
+!venv/basic.ipynb
+!venv/the-verdict.txt
+!venv/transformer.ipynb
+.env
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
